@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author kim
  *
  */
-@RestController
+//@RestController
 public class HelloWorldController {
 
     private static final Logger LOG = getLogger(HelloWorldController.class.getName());
